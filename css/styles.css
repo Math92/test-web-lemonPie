@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url('/img/lemon_pie.jpeg');
+    background-image: url('/img/lemon-pie.jpeg');
     /* background-size: cover; */
     font-family: 'Roboto';
     background-size: cover;
@@ -64,3 +64,10 @@ footer {
 }
 
 
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
